@@ -19,3 +19,6 @@ module.exports = {
 }
 
 ```
+
+## recommendations
+We recommend using it with @megalo/cli-serve. [Click this enter to portal](https://github.com/megalojs/megalo-cli/tree/master/packages/@megalo/cli-service)
