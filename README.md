@@ -4,7 +4,7 @@ eslint-config-standard for megalo project
 
 ## install
 ```bash
-npm i eslint eslint-config-standard
+npm i eslint @megalo/eslint-config-standard
 ```
 
 ## configure
