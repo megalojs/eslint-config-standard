@@ -1,6 +1,6 @@
 {
   "name": "@megalo/eslint-config-standard",
-  "version": "1.0.0-alpha.2",
+  "version": "1.0.0",
   "description": "eslint-config-standard for megalo project",
   "main": "./lib/index.js",
   "publishConfig": {
@@ -41,9 +41,6 @@
     "eslint-plugin-promise": "^4.0.1",
     "eslint-plugin-standard": "^4.0.0",
     "eslint-plugin-vue": "^5.2.1"
-  },
-  "peerDependencies": {
-    "eslint": ">4"
   },
   "devDependencies": {
     "eslint": "^5.13.0",
